@@ -1,0 +1,22 @@
+{
+  "name": "google-api",
+  "version": "1.0.0",
+  "description": "Google api's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanganatra/Google-ApI.git"
+  },
+  "author": "ivan-ganatra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivanganatra/Google-ApI/issues"
+  },
+  "homepage": "https://github.com/ivanganatra/Google-ApI#readme",
+  "dependencies": {
+    "googleapis": "^79.0.0"
+  }
+}
